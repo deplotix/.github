@@ -1,8 +1,8 @@
-# Doubl Tech
+# Deplotix
 
 ## Revolutionizing Developer Experience Through Automation
 
-Welcome to Doubl Tech, where we transform how developers interact with their infrastructure and deployment pipelines. Our mission is to eliminate operational complexity through intelligent automation and self-service platforms.
+Welcome to Deplotix, where we transform how developers interact with their infrastructure and deployment pipelines. Our mission is to eliminate operational complexity through intelligent automation and self-service platforms.
 
 ### 🚀 Our Mission
 To revolutionize developer experience through intelligent automation and self-service tooling. We build platforms that streamline CI/CD workflows, simplify complex operations, and empower developers to own their entire development lifecycle without operational bottlenecks.
@@ -30,11 +30,11 @@ Our proprietary suite of tools focuses on:
 While our repositories are private, we actively engage with the DevOps community to shape the future of developer tooling and automation. We welcome discussions about best practices, automation patterns, and innovative approaches to solving complex operational challenges.
 
 ### 📫 Get in Touch
-Interested in revolutionizing your development workflows? Connect with us on [Twitter](https://twitter.com/doubltech).
+Interested in revolutionizing your development workflows? Connect with us on [Twitter](https://twitter.com/deplotix).
 
 ### 📜 License
 Our public repositories are open-source and available under the BSD License. Our private automation tools and platforms remain proprietary and are not open-source. Private repositories are protected under copyright law, and any unauthorized use, distribution, or commercial exploitation is strictly prohibited. For inquiries about licensing or commercial use of our proprietary tools, please contact us directly.
 
 ---
 
-At Doubl Tech, we're building the future of developer operations - where complex tasks are automated, infrastructure is self-service, and developers are empowered to own their entire development lifecycle.
+At Deplotix, we're building the future of developer operations - where complex tasks are automated, infrastructure is self-service, and developers are empowered to own their entire development lifecycle.
