@@ -30,7 +30,7 @@ Our proprietary suite of tools focuses on:
 While our repositories are private, we actively engage with the DevOps community to shape the future of developer tooling and automation. We welcome discussions about best practices, automation patterns, and innovative approaches to solving complex operational challenges.
 
 ### 📫 Get in Touch
-Interested in revolutionizing your development workflows? Connect with us on [Twitter](https://twitter.com/deplotix).
+Interested in revolutionizing your development workflows? Connect with us on [Twitter/X](https://x.com/deplotix).
 
 ### 📜 License
 Our public repositories are open-source and available under the BSD License. Our private automation tools and platforms remain proprietary and are not open-source. Private repositories are protected under copyright law, and any unauthorized use, distribution, or commercial exploitation is strictly prohibited. For inquiries about licensing or commercial use of our proprietary tools, please contact us directly.
