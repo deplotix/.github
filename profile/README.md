@@ -1,4 +1,4 @@
-# Deplotix
+# deplotix
 
 ## Revolutionizing Developer Experience Through Automation
 
