@@ -54,7 +54,7 @@ We'd love to hear from you!
 - Follow us on [Twitter/X](https://x.com/deplotix) for updates  
 - Connect on [LinkedIn](https://linkedin.com/company/deplotix)  
 - Check out our [GitHub](https://github.com/deplotix)  
-- Email us at [team@deplotix.com](mailto:info@deplotix.com) with inquiries or suggestions  
+- Email us at [info@deplotix.com](mailto:info@deplotix.com) with inquiries or suggestions  
 
 ---
 
