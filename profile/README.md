@@ -1,72 +1,52 @@
-# deplotix!
+# deplotix
 
-**CLI-First DevOps & MLOps Automation Platform**
+**Know what to fix next in your delivery pipeline.**
 
-deplotix builds intelligent CLI tools that streamline modern software development workflows, letting you focus on building great products instead of managing infrastructure:
+deplotix measures your DORA and developer experience metrics, then tells you what is slowing your team down and what to change first.
 
-- **🚀 Infrastructure GitOps** - Automated Terraform-based infrastructure provisioning
-- **⚡ AI Startup Bootstrapping** - Rapid infrastructure setup for AI projects
-- **📊 AI-Driven DevOps Metrics** - Smart insights and decision-making for development teams
-- **🔄 Disaster Recovery** - Automated replication and recovery workflows
+- **📊 Measure** - The four DORA metrics and pull request flow, calculated from the tools your team already uses
+- **💡 Recommend** - A short, ranked list of what to change, written in plain language and tied to your own numbers
+- **🔮 Predict** - Forecasts of where your metrics are heading, and early warning for work that is likely to stall
+- **🧑‍💻 Developer experience** - What working on your team feels like, measured next to delivery
 
-## Get started with deplotix
+## Status
 
-1. 🚀 Try **[solarboat](https://github.com/deplotix/solarboat)** - Our beta GitOps CLI for Terraform automation
-2. 💡 Explore our **[vision](https://deplotix.com)** for CLI-first DevOps automation
-3. 🔮 Stay tuned for **dplx**, **director**, and **doubl** - Our upcoming CLI tools
+deplotix is in development. We are onboarding a small group of engineering teams for a private beta, starting with GitHub.
 
-## Our Products
+1. 👀 Explore the **[demo](https://deplotix.com/demo)** (sample data)
+2. 📖 See **[what deplotix measures](https://deplotix.com/product)**
+3. ✉️ **[Join the waitlist](https://deplotix.com/#waitlist)** for the private beta
 
-### Current (Beta)
+## What it measures
 
-- **[solarboat](https://github.com/deplotix/solarboat)** - Infrastructure GitOps CLI tool for automating Terraform-based infrastructure provisioning
+| Area | What you get | Stage |
+|---|---|---|
+| **DORA metrics** | Deployment frequency, lead time for changes, change failure rate, time to restore | First release |
+| **Pull request flow** | Cycle time by stage, pull request size, stalled pull requests | First release |
+| **Recommendations** | Your biggest bottleneck, concrete next steps, a weekly summary | First release |
+| **Developer experience** | Pulse surveys, build and CI friction | Next |
+| **Predictions** | Metric forecasts, pull requests likely to stall | Later |
 
-### Coming Soon
+## Principles
 
-- **dplx** - Infrastructure bootstrapping CLI for AI startup bootstrapping
-- **director** - AI-driven DevOps metrics and insights platform
-- **doubl** - Replication and disaster recovery automation tool
+- **Answers over charts.** A metric is only useful if it changes what you do next.
+- **Teams, not individuals.** We measure systems and workflows, and we do not build leaderboards of people.
+- **Honest numbers.** We show how each metric is calculated and where the data came from.
+- **Least access.** You choose which repositories to connect, and you can remove access at any time.
 
 ## Vision
 
-> Build the most intuitive CLI-first platform for DevOps and MLOps automation, empowering developers to focus on innovation while our tools handle the complexity of modern software infrastructure.
-
-## Roadmap
-
-**Current Focus:**
-
-- Stabilizing and enhancing solarboat for production-ready GitOps workflows
-- Gathering feedback from early adopters and beta users
-
-**Next Milestones:**
-
-- Launch dplx for AI infrastructure bootstrapping
-- Develop director for AI-driven DevOps metrics and insights
-- Build doubl for automated replication and disaster recovery
-
-**Future Ambitions:**
-
-- Complete CLI-first DevOps and MLOps platform with all four tools
-- AI-powered decision-making and automation recommendations
-- Enterprise-grade developer experience tooling
+> Help every engineering team understand how they deliver software, and what to change to deliver it better.
 
 ## Community
 
-- 🌐 Visit our **[website](https://deplotix.com)** to learn more about our mission
-- 🐦 Follow us on **[X](https://x.com/deplotix)** for updates and insights
-- 💼 Connect on **[LinkedIn](https://linkedin.com/company/deplotix)** for professional networking
-- 🤝 Join our community discussions and contribute to our open-source projects
-
-## Exploring deplotix
-
-Check out the following resources for learning more about deplotix:
-
-- **[solarboat](https://github.com/deplotix/solarboat)** - Our beta GitOps CLI tool in action
-- **[Documentation](https://deplotix.com)** - Comprehensive guides and API references
-- **[Roadmap](https://deplotix.com/roadmap)** - Our development timeline and future plans
+- 🌐 **[Website](https://deplotix.com)**
+- 🐦 **[X](https://x.com/deplotix)**
+- 💼 **[LinkedIn](https://linkedin.com/company/deplotix)**
+- ✉️ **[hello@deplotix.com](mailto:hello@deplotix.com)**
 
 ---
 
 <div align="center">
-  <sub>© 2025 deplotix — CLI-first DevOps & MLOps automation for modern development teams</sub>
+  <sub>© 2026 deplotix — DORA and developer experience metrics that tell you what to fix next</sub>
 </div>
